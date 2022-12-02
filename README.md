@@ -8,7 +8,7 @@
       but it ended up being his channel and the Captain Minecraft 101 channel was left under my hands. I now upload when I have a chance because I'm lazy and don't 
       have enough time to make one anymore. <br /><br />
     I hoped you enjoyed the history of my YouTube Channel, even though it was a bit Boring! Let me tell you something else <br />
-      My family
+      My family <br />
       I have a brother called James, you would have heard him in a lot of my videos! <br />
       I have a nice Auntie called Auntie fify (not her real name) and she checks my videos for bad stuff like face reveals. <br />
       My name is Andrew and I am the founder of this website. I am also a tech genius at my age! <br />
