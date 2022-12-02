@@ -1,7 +1,7 @@
 <html>
    Captain Minecraft 101 Website <br /> <br />
   <body>
-    Welcome to Captain Minercraft 101's official website! Here you can find some infomation about how my channel started. <br />
+    Welcome to Captain Minecraft 101's official website! Here you can find some infomation about how my channel started. <br />
   <br />
       On July 5, 2022, my friend Tyler asked me how to create a youtube channel. He was a friend from my school and he knows that I am a tech genius. So I **Showed** 
       him how to create a YouTube channel and we started Co-op on it. 2 Months later, Sep 8, 2022, Tyler asked me to create a channel for his brother Charlie. I did it 
