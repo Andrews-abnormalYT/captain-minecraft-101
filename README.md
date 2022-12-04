@@ -17,5 +17,11 @@
       Channel >> Youtube.com/@capm101 <br />
       Share the website >> bit.ly/capm101 <br />
     Thank You for reading this text, and even knowing about it!!!!! <br />
+     I am not done!!!!
+     <Some credits>
+        Website by: Me
+        YOUTUBE CHANNEL BY: me
+        Website help by: learning with w3schools.com (USE THEM, IT'S GOOD)
+        Thank you for reading the credits!
   </body>
  </Html>
