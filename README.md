@@ -25,6 +25,7 @@
         Thank you for reading the credits! <br />
         
         <img src="A580B2BA-3A86-43DB-B1EE-8FE5C3C58A0A.jpeg" alt="cm" style="width:256px;height:256px">
+        
        </Some credits>
   </body>
  </!DOCTYPE html>
