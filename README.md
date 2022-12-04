@@ -19,11 +19,12 @@
     Thank You for reading this text, and even knowing about it!!!!! <br /> 
      I am not done!!!! <br /><br />
      <Some credits>
-        Website by: Me<br />
-        YOUTUBE CHANNEL BY: me<br />
-        Website help by: learning with w3schools.com (USE THEM, IT'S GOOD)<br / >
-        Thank you for reading the credits!<br />
+        Website by: Me <br />
+        YOUTUBE CHANNEL BY: me <br />
+        Website help by: learning with w3schools.com (USE THEM, IT'S GOOD) <br / >
+        Thank you for reading the credits! <br />
         
         <img src="A580B2BA-3A86-43DB-B1EE-8FE5C3C58A0A.jpeg" alt="cm" style="width:256px;height:256px">
+       </Some credits>
   </body>
  </!DOCTYPE html>
