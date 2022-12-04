@@ -24,6 +24,6 @@
         Website help by: learning with w3schools.com (USE THEM, IT'S GOOD)<br / >
         Thank you for reading the credits!<br />
         
-        <img src="cm.png" alt="cm" style="width:256px;height:256px">
+        <img src="A580B2BA-3A86-43DB-B1EE-8FE5C3C58A0A.jpeg" alt="cm" style="width:256px;height:256px">
   </body>
  </!DOCTYPE html>
