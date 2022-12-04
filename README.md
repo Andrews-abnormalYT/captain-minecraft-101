@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
    Captain Minecraft 101 Website <br /> <br />
   <body>
     Welcome to Captain Minecraft 101's official website! Here you can find some infomation about how my channel started. <br />
@@ -24,4 +24,4 @@
         Website help by: learning with w3schools.com (USE THEM, IT'S GOOD)<br / >
         Thank you for reading the credits!<br />
   </body>
- </Html>
+ </!DOCTYPE html>
