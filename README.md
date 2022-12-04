@@ -16,12 +16,12 @@
       Discord >> bit.ly/cm101invite <br />
       Channel >> Youtube.com/@capm101 <br />
       Share the website >> bit.ly/capm101 <br />
-    Thank You for reading this text, and even knowing about it!!!!! <br />
-     I am not done!!!!
+    Thank You for reading this text, and even knowing about it!!!!! <br /> 
+     I am not done!!!! <br /><br />
      <Some credits>
-        Website by: Me
-        YOUTUBE CHANNEL BY: me
-        Website help by: learning with w3schools.com (USE THEM, IT'S GOOD)
-        Thank you for reading the credits!
+        Website by: Me<br />
+        YOUTUBE CHANNEL BY: me<br />
+        Website help by: learning with w3schools.com (USE THEM, IT'S GOOD)<br / >
+        Thank you for reading the credits!<br />
   </body>
  </Html>
