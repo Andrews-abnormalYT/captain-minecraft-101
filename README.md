@@ -23,5 +23,7 @@
         YOUTUBE CHANNEL BY: me<br />
         Website help by: learning with w3schools.com (USE THEM, IT'S GOOD)<br / >
         Thank you for reading the credits!<br />
+        
+        <img src="cm.png" alt="cm" style="width:256px;height:256px">
   </body>
  </!DOCTYPE html>
