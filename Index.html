@@ -1,31 +1,207 @@
 <!DOCTYPE html>
-   Captain Minecraft 101 Website <br /> <br />
-  <body>
-    Welcome to Captain Minecraft 101's official website! Here you can find some infomation about how my channel started. <br />
-  <br />
-      On July 5, 2022, my friend Tyler asked me how to create a youtube channel. He was a friend from my school and he knows that I am a tech genius. So I **Showed** 
-      him how to create a YouTube channel and we started Co-op on it. 2 Months later, Sep 8, 2022, Tyler asked me to create a channel for his brother Charlie. I did it 
-      but it ended up being his channel and the Captain Minecraft 101 channel was left under my hands. I now upload when I have a chance because I'm lazy and don't 
-      have enough time to make one anymore. <br /><br />
-    I hoped you enjoyed the history of my YouTube Channel, even though it was a bit Boring! Let me tell you something else <br />
-      My family <br />
-      I have a brother called James, you would have heard him in a lot of my videos! <br />
-      I have a nice Auntie called Auntie fify (not her real name) and she checks my videos for bad stuff like face reveals. <br />
-      My name is Andrew and I am the founder of this website. I am also a tech genius at my age! <br />
-    Now for some links <br />
-      Discord >> bit.ly/cm101invite <br />
-      Channel >> Youtube.com/@capm101 <br />
-      Share the website >> bit.ly/capm101 <br />
-    Thank You for reading this text, and even knowing about it!!!!! <br /> 
-     I am not done!!!! <br /><br />
-     <Some credits>
-        Website by: Me <br />
-        YOUTUBE CHANNEL BY: me <br />
-        Website help by: learning with w3schools.com (USE THEM, IT'S GOOD) <br / >
-        Thank you for reading the credits! <br />
-        
-        <img src="A580B2BA-3A86-43DB-B1EE-8FE5C3C58A0A.jpeg" alt="cm" style="width:256px;height:256px">
-        
-       </Some credits>
-  </body>
- </!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My website!</title>
+<link rel=icon href=favicon.ico>
+<meta property="og:url" content="https://andrewsabnormal.com/"/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #0ed31e;
+  color: white;
+}
+
+/* Increase the font size of the h1 element */
+.header h1 {
+  font-size: 40px;
+}
+
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #3a5a46;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.column {
+float: left;
+width: 33.33%;
+}
+/* The floats after the columns are cleared */
+.row:after {
+content: “”;
+display: table;
+clear: both;
+}
+
+/* Column container */
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 5%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Main column */
+.main {   
+  flex: 5%;
+  background-color: white;
+  padding: 20px;
+}
+
+.otherside {   
+  flex: 5%;
+  background-color: rgb(51, 255, 0);
+  padding: 20px;
+}
+
+.otherside2 {  
+  flex: 5%;
+  background-color: rgb(173, 42, 162);
+  padding: 20px;
+}
+
+.otherside3 {
+  flex: 5%;
+  background-color: rgb(181, 194, 0);
+  padding: 20px;
+}
+
+.otherside4 {
+  flex: 5%;
+  background-color: rgba(228, 28, 138, 0.418);
+  padding: 20px;
+
+}
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width:100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Andrew's Abnormal Website</h1>
+  <p>Just my website!.</p>
+  <img src="src/Bee.png" alt="Buz" height="200px" width="200px">
+</div>
+
+<div class="navbar">
+  <a href="https://andrews-abnormalyt.github.io/Discord-invite/">Invite Bee-bot</a>
+  <a href="https://bee-bot-discord-bot.github.io/server-invite/">Join the discord</a>
+  <a href="https://youtube.com/@andrewsabnormal">Check out my channel</a>
+  <a href="https://github.com/andrews-abnormalyt">My github</a>
+  <a href="https://twitch.tv/AndrewsabnormalYT" class="center">My Twitch </a>
+  <a href="https://youtube.com/@fabulousfishgaming" class="right">My friend, Ethan!</a>
+  <a href="html/about.html" class="right">More about me!</a>
+  <a href="html/credits.html" class="right">Credits</a>
+  <a href="src/audio.mp3" class="right">Music</a>
+  <a href="videoview.html" class="right">Watch a video from the old channel</a>
+  <a class="button" id="btnIN" title="Used to customize your aznbot.mp4 experience" href="https://discord.com/api/oauth2/authorize?client_id=1050289486124306452&redirect_uri=https%3A%2F%2Fandrews-abnormalyt.github.io&response_type=code&scope=identify">Authorize</a>
+</div>
+
+<div class="row">
+  <div class="side">
+    <h2>About Me</h2>
+    <p>Hello world! Some of you may question about the fate of my previous YouTube channel, and many would be sad to hear that I deleted it. You can find out more on my GitHub.</p>
+    <h3>More infomation</h3>
+    <p>I do own a discord, and I would really like a really good community. Go join it using the navigation bar.</p>
+    <h4>Q and A!</h4>
+    <p>Q1. Why did you delete your YouTube channel (I am not sasified with the GitHub infomation)?<br />
+       A1. As it does say, Tyler did threaten me to delete my own YouTube channel. So I am starting fresh with a new youtube channel.<br />
+       Q2. Why is your bot called Bee-Bot?<br />
+       A2. Bee-bot is called bee-bot because the mascot of the YouTube channel is called bee, so it matches.
+    </p>
+  </div>
+  <div class="main">
+    <h2>MY EQUIPMENT!</h2>
+    <h5>Sorry no images!</h5>
+    <p>My microphone: Some professional microphone from Kmart,<br />
+    My laptop: HP Victus 16,<br />
+    That is about it!</p>
+    <br>
+    <h2>HARDWARE SPECS</h2>
+    <h5>What do you think my hardware is?</h5>
+    <p>CPU: AMD Ryzen 5 5600H 6-core 12-thread<br />
+       RAM: 16GB DDR4<br />
+       GPU: Nvida GeForce RTX 3050 Ti<br />
+       Disks: NVMe PCI-E SSD</p>
+    
+  </div>
+    <div class="otherside">
+      <iframe src="https://ptb.discord.com/widget?id=1049204922228408380&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    </div>
+    <div class="otherside2">
+      <img src="src/Bee.png" alt="Buz" height="400px" width="400px">
+    </div>
+    <div class="otherside3">
+      <video width="300px" height="300px" controls>
+        <source src="src/microwave.mp4" type="video/mp4"><br />
+      Your browser does not support the video tag.
+      </video>
+      <a style="font-size:40px" href="https://andrews-abnormalyt.github.io/src/microwave.mp4">Microwave.mp4</a><br />
+
+    </div>
+  </div>
+  
+
+
+</body>
+</html>
